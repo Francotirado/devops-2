@@ -10,10 +10,9 @@
 
 ## Ссылка на fork
 
----
-
 https://github.com/Francotirado/shvirtd-example-python
 
+---
 
 ![Ответ на задание 4](https://github.com/Francotirado/devops-2/blob/main/img/4.jpg)
 
